@@ -1,6 +1,6 @@
 # Differential Equations (DE) Notes
 
-A collection of lecture notes Based on **Differential Equations** Instructed by **Dr. Khajeh Salehani**.
+A collection of lecture notes Based on **Differential Equations** Course Instructed by **Dr. Khajeh Salehani**.
 
 > Typeset in $\LaTeX$.
 
